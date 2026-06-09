@@ -48,7 +48,7 @@
     "google": {
       "clientId": "580970245525-t756qb1q6fpbhr4aiqruv5j0jit0jpsf.apps.googleusercontent.com",
       "calendarId": "primary",
-      "privacyDefault": "title",
+      "privacyDefault": "private",
       "autoPull": true
     },
     "notifications": true
@@ -322,6 +322,6 @@
     }
   ],
   "gcalLastLoad": "2026-06-09T17:09:30.418Z",
-  "lastSync": "2026-06-09T17:12:28.492Z",
+  "lastSync": "2026-06-09T17:29:30.625Z",
   "dirty": false
 }
