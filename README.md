@@ -1,4 +1,4 @@
-# Мой нежный органайзер v1.4
+# Мой нежный органайзер v1.5
 
 Личный PWA-органайзер: задачи, заметки, дедлайны, финансы по сферам, накопления, локальные напоминания, GitHub Sync и выборочная синхронизация с Google Calendar.
 
@@ -25,7 +25,7 @@
 4. Открыть ссылку вида:
 
 ```text
-https://vasiekig-droid.github.io/personal-organizer/?v=14
+https://vasiekig-droid.github.io/personal-organizer/?v=15
 ```
 
 ## GitHub Sync
@@ -97,7 +97,7 @@ https://vasiekig-droid.github.io
 Для обновления GitHub Pages открывай:
 
 ```text
-https://vasiekig-droid.github.io/personal-organizer/?v=14
+https://vasiekig-droid.github.io/personal-organizer/?v=15
 ```
 
 
@@ -119,11 +119,11 @@ https://vasiekig-droid.github.io/personal-organizer/?v=14
 Для обновления GitHub Pages открывай:
 
 ```text
-https://vasiekig-droid.github.io/personal-organizer/?v=14
+https://vasiekig-droid.github.io/personal-organizer/?v=15
 ```
 
 
-## v1.4 — Красота и финансы
+## v1.5 — Красота и финансы
 
 Добавлено:
 - новая сфера **Красота**;
@@ -136,3 +136,9 @@ https://vasiekig-droid.github.io/personal-organizer/?v=14
 - краткий финансовый блок на главной.
 
 Важно: финансовые данные хранятся там же, где задачи — локально и в `organizer.json` при GitHub Sync. Токены и пароли туда не записываются.
+
+
+## v1.5
+- Исправлено редактирование задач: форма в модальном окне больше не конфликтует с формой новой задачи.
+- Можно заранее сохранить выбор Google Calendar без даты/времени; отправка произойдёт после добавления даты и времени.
+- Улучшены сообщения об ошибках Google Calendar Sync.
