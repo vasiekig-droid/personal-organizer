@@ -46,9 +46,9 @@
       "token": ""
     },
     "google": {
-      "clientId": "",
+      "clientId": "580970245525-t756qb1q6fpbhr4aiqruv5j0jit0jpsf.apps.googleusercontent.com",
       "calendarId": "primary",
-      "privacyDefault": "private",
+      "privacyDefault": "title",
       "autoPull": true
     },
     "notifications": true
@@ -321,7 +321,7 @@
       "source": "google"
     }
   ],
-  "gcalLastLoad": "2026-06-09T16:49:36.203Z",
-  "lastSync": "2026-06-09T17:02:17.966Z",
+  "gcalLastLoad": "2026-06-09T17:09:30.418Z",
+  "lastSync": "2026-06-09T17:12:28.492Z",
   "dirty": false
 }
