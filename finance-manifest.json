@@ -1,0 +1,18 @@
+{
+  "name": "Быстрые траты",
+  "short_name": "Траты",
+  "description": "Быстрый ввод финансовых трат в личный органайзер.",
+  "start_url": "./finance.html?v=28",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff7fb",
+  "theme_color": "#b88a2d",
+  "icons": [
+    {
+      "src": "finance-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

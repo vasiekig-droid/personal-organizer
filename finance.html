@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <meta name="theme-color" content="#f7d7e8" />
   <title>Мой нежный органайзер v2.7</title>
-  <link rel="manifest" href="manifest.json" />
+  <link rel="manifest" href="finance-manifest.json" />
   <link rel="icon" href="icon.svg" type="image/svg+xml" />
   <script src="https://accounts.google.com/gsi/client" async defer></script>
   <style>
@@ -102,7 +102,7 @@ const areaInfo={
   'Отдых':{emoji:'🛋️',hint:'восстановление, прогулки, кино, свободное время',privacy:'none'}
 };
 const defaultData={tasks:[],notes:[],finance:{budgets:[],expenses:[],goals:[]},gcalDone:{},settings:{github:{owner:'vasiekig-droid',repo:'personal-organizer',branch:'main',file:'organizer.json',token:''},google:{clientId:'',privacyDefault:'private',calendarId:'primary',autoPull:true},notifications:true},gcalEvents:[],gcalDone:{},gcalLastLoad:null,lastSync:null,dirty:false};
-let data=load(); let active=(new URLSearchParams(location.search).get('quick')==='finance' || location.hash==='#finance-quick')?'financeQuick':'today'; let tokenClient=null; let googleToken=null; let notificationTimer=null;
+let data=load(); let active=(new URLSearchParams(location.search).get('quick')==='finance' || location.hash==='#finance-quick' || location.pathname.endsWith('finance.html'))?'financeQuick':'today'; let tokenClient=null; let googleToken=null; let notificationTimer=null;
 function uid(){return Date.now().toString(36)+Math.random().toString(36).slice(2,8)}
 function deepMerge(a,b){const out={...(a||{})}; Object.keys(b||{}).forEach(k=>{out[k]=(b[k]&&typeof b[k]==='object'&&!Array.isArray(b[k]))?deepMerge(out[k],b[k]):b[k]}); return out}
 
