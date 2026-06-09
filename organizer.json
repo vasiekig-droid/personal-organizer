@@ -1,0 +1,327 @@
+{
+  "tasks": [
+    {
+      "id": "mq6sfglgwm374v",
+      "title": "Разобраться со стоимостью гаражей",
+      "date": "2026-06-10",
+      "time": "10:33",
+      "desc": "",
+      "category": "Дом",
+      "importance": "Обычная",
+      "reminder": 0,
+      "syncGcal": "title",
+      "focus": false,
+      "done": false,
+      "createdAt": "2026-06-09T15:21:38.500Z",
+      "googleEventId": "d5k2taue60g0r2b04ndtnjqgh0"
+    },
+    {
+      "id": "mq6sdjff9of54d",
+      "title": "хлеб",
+      "desc": "",
+      "category": "Личное",
+      "importance": "Обычная",
+      "reminder": 0,
+      "syncGcal": "none",
+      "focus": false,
+      "done": false,
+      "createdAt": "2026-06-09T15:20:08.859Z"
+    }
+  ],
+  "notes": [],
+  "finance": {
+    "budgets": [],
+    "expenses": [],
+    "goals": []
+  },
+  "gcalDone": {
+    "74ojac9gcgs32bb6clhjcb9kcgqjibb26srj0b9pcphm2d1n6oqjcpj6cc_20260610T060000Z": true
+  },
+  "settings": {
+    "github": {
+      "owner": "vasiekig-droid",
+      "repo": "personal-organizer",
+      "branch": "main",
+      "file": "organizer.json",
+      "token": ""
+    },
+    "google": {
+      "clientId": "",
+      "calendarId": "primary",
+      "privacyDefault": "private",
+      "autoPull": true
+    },
+    "notifications": true
+  },
+  "gcalEvents": [
+    {
+      "id": "74ojac9gcgs32bb6clhjcb9kcgqjibb26srj0b9pcphm2d1n6oqjcpj6cc_20260609T060000Z",
+      "summary": "Никита 1 смена",
+      "start": "2026-06-09T08:00:00+02:00",
+      "end": "2026-06-09T11:25:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "6gr66eb365i3eb9o6comab9k6sr34bb260ojabb4clij2d9p68oj0or66o_20260609T190000Z",
+      "summary": "Таблетки",
+      "start": "2026-06-09T21:00:00+02:00",
+      "end": "2026-06-09T22:00:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "74ojac9gcgs32bb6clhjcb9kcgqjibb26srj0b9pcphm2d1n6oqjcpj6cc_20260610T060000Z",
+      "summary": "Никита 1 смена",
+      "start": "2026-06-10T08:00:00+02:00",
+      "end": "2026-06-10T11:25:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "d5k2taue60g0r2b04ndtnjqgh0",
+      "summary": "Разобраться со стоимостью гаражей",
+      "start": "2026-06-10T10:33:00+02:00",
+      "end": "2026-06-10T11:03:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "6orra9cd4up44fd50tdav62a8p",
+      "summary": "Выступление Никиты в школе",
+      "start": "2026-06-10T18:00:00+02:00",
+      "end": "2026-06-10T19:00:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "6gr66eb365i3eb9o6comab9k6sr34bb260ojabb4clij2d9p68oj0or66o_20260610T190000Z",
+      "summary": "Таблетки",
+      "start": "2026-06-10T21:00:00+02:00",
+      "end": "2026-06-10T22:00:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "74ojac9gcgs32bb6clhjcb9kcgqjibb26srj0b9pcphm2d1n6oqjcpj6cc_20260611T060000Z",
+      "summary": "Никита 1 смена",
+      "start": "2026-06-11T08:00:00+02:00",
+      "end": "2026-06-11T11:25:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "75i3adb1c4rj0bb36co66b9k6cs66bb1cko30b9k6di66phmcos64opkc4_20260611T110000Z",
+      "summary": "Танцы💃",
+      "start": "2026-06-11T13:00:00+02:00",
+      "end": "2026-06-11T14:00:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "0tbg4fpc26tugmiglo5mcrahlr",
+      "summary": "Написать ассистенту психиатра об отмени ",
+      "start": "2026-06-11T15:00:00+02:00",
+      "end": "2026-06-11T16:00:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "fruv46dsnbabr2s7fqoeb6hell_20260611T141500Z",
+      "summary": "Английский Катя",
+      "start": "2026-06-11T16:15:00+02:00",
+      "end": "2026-06-11T17:15:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "6gr66eb365i3eb9o6comab9k6sr34bb260ojabb4clij2d9p68oj0or66o_20260611T190000Z",
+      "summary": "Таблетки",
+      "start": "2026-06-11T21:00:00+02:00",
+      "end": "2026-06-11T22:00:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "74ojac9gcgs32bb6clhjcb9kcgqjibb26srj0b9pcphm2d1n6oqjcpj6cc_20260612T060000Z",
+      "summary": "Никита 1 смена",
+      "start": "2026-06-12T08:00:00+02:00",
+      "end": "2026-06-12T11:25:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "c9h68or568pjabb4c4omab9k75ij2bb16grjcbb470sjce1j70pj8d1p74",
+      "summary": "Ортодонт",
+      "start": "2026-06-12T15:00:00+02:00",
+      "end": "2026-06-12T15:30:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "70r62d9l65gj2bb371gjeb9k6gsj2bb26ti64b9hc4pj4eb26ooj8dj260",
+      "summary": "Психиатр",
+      "start": "2026-06-12T16:30:00+02:00",
+      "end": "2026-06-12T17:30:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "q35mqp29ua4ftpua2nab2tn7ap_20260612T170000Z",
+      "summary": "Андрей  Го",
+      "start": "2026-06-12T19:00:00+02:00",
+      "end": "2026-06-12T20:30:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "6gr66eb365i3eb9o6comab9k6sr34bb260ojabb4clij2d9p68oj0or66o_20260612T190000Z",
+      "summary": "Таблетки",
+      "start": "2026-06-12T21:00:00+02:00",
+      "end": "2026-06-12T22:00:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "6gr66eb365i3eb9o6comab9k6sr34bb260ojabb4clij2d9p68oj0or66o_20260613T190000Z",
+      "summary": "Таблетки",
+      "start": "2026-06-13T21:00:00+02:00",
+      "end": "2026-06-13T22:00:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "6gr66eb365i3eb9o6comab9k6sr34bb260ojabb4clij2d9p68oj0or66o_20260614T190000Z",
+      "summary": "Таблетки",
+      "start": "2026-06-14T21:00:00+02:00",
+      "end": "2026-06-14T22:00:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "6krm8or66krj8bb1c4rjgb9k6kojgbb274qjgbb6coq62dhi60oj4e34c4_20260615T104500Z",
+      "summary": "Никита 2 смена",
+      "start": "2026-06-15T12:45:00+02:00",
+      "end": "2026-06-15T17:05:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "75i3adb1c4rj0bb36co66b9k6cs66bb1cko30b9k6di66phmcos64opkc4_20260615T110000Z",
+      "summary": "Танцы💃",
+      "start": "2026-06-15T13:00:00+02:00",
+      "end": "2026-06-15T14:00:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "2k7off1f4eucijiaf9e8bl629l_20260615T160000Z",
+      "summary": "Английский Катя",
+      "start": "2026-06-15T18:00:00+02:00",
+      "end": "2026-06-15T19:00:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "6gr66eb365i3eb9o6comab9k6sr34bb260ojabb4clij2d9p68oj0or66o_20260615T190000Z",
+      "summary": "Таблетки",
+      "start": "2026-06-15T21:00:00+02:00",
+      "end": "2026-06-15T22:00:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "chgjcp9h6ssmcb9hcgs38b9k6opmcb9o6cs64bb66lhj0dr5c4sm4cj26s",
+      "summary": "Загрузить доверенность на сайт",
+      "start": "2026-06-16T11:00:00+02:00",
+      "end": "2026-06-16T12:00:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "6krjcc3564s30bb260r3gb9kchh34b9o68rjcbb16hj66d9h6orm2pj6ck",
+      "summary": "Машина времени",
+      "start": "2026-06-16T19:30:00+02:00",
+      "end": "2026-06-16T21:30:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "6gr66eb365i3eb9o6comab9k6sr34bb260ojabb4clij2d9p68oj0or66o_20260616T190000Z",
+      "summary": "Таблетки",
+      "start": "2026-06-16T21:00:00+02:00",
+      "end": "2026-06-16T22:00:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "6gr66eb365i3eb9o6comab9k6sr34bb260ojabb4clij2d9p68oj0or66o_20260617T190000Z",
+      "summary": "Таблетки",
+      "start": "2026-06-17T21:00:00+02:00",
+      "end": "2026-06-17T22:00:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "75i3adb1c4rj0bb36co66b9k6cs66bb1cko30b9k6di66phmcos64opkc4_20260618T110000Z",
+      "summary": "Танцы💃",
+      "start": "2026-06-18T13:00:00+02:00",
+      "end": "2026-06-18T14:00:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "fruv46dsnbabr2s7fqoeb6hell_20260618T141500Z",
+      "summary": "Английский Катя",
+      "start": "2026-06-18T16:15:00+02:00",
+      "end": "2026-06-18T17:15:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "6gr66eb365i3eb9o6comab9k6sr34bb260ojabb4clij2d9p68oj0or66o_20260618T190000Z",
+      "summary": "Таблетки",
+      "start": "2026-06-18T21:00:00+02:00",
+      "end": "2026-06-18T22:00:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "6lijcp336kq3gbb261j36b9k64p3ab9p69h3eb9jc8pjie9nccs30p1kc4",
+      "summary": "Лёнин поход в консульствох",
+      "start": "2026-06-19T09:30:00+02:00",
+      "end": "2026-06-19T10:30:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "q35mqp29ua4ftpua2nab2tn7ap_20260619T170000Z",
+      "summary": "Андрей  Го",
+      "start": "2026-06-19T19:00:00+02:00",
+      "end": "2026-06-19T20:30:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "6gr66eb365i3eb9o6comab9k6sr34bb260ojabb4clij2d9p68oj0or66o_20260619T190000Z",
+      "summary": "Таблетки",
+      "start": "2026-06-19T21:00:00+02:00",
+      "end": "2026-06-19T22:00:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "6gr66eb365i3eb9o6comab9k6sr34bb260ojabb4clij2d9p68oj0or66o_20260620T190000Z",
+      "summary": "Таблетки",
+      "start": "2026-06-20T21:00:00+02:00",
+      "end": "2026-06-20T22:00:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "6hgm4pb370p3ibb260s34b9kc5hm2b9o69gj6bb268pjgpj16hh3ie1mcg",
+      "summary": "Купить проездной на июль",
+      "start": "2026-06-21T10:30:00+02:00",
+      "end": "2026-06-21T11:30:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "6gr66eb365i3eb9o6comab9k6sr34bb260ojabb4clij2d9p68oj0or66o_20260621T190000Z",
+      "summary": "Таблетки",
+      "start": "2026-06-21T21:00:00+02:00",
+      "end": "2026-06-21T22:00:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "75i3adb1c4rj0bb36co66b9k6cs66bb1cko30b9k6di66phmcos64opkc4_20260622T110000Z",
+      "summary": "Танцы💃",
+      "start": "2026-06-22T13:00:00+02:00",
+      "end": "2026-06-22T14:00:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "2k7off1f4eucijiaf9e8bl629l_20260622T160000Z",
+      "summary": "Английский Катя",
+      "start": "2026-06-22T18:00:00+02:00",
+      "end": "2026-06-22T19:00:00+02:00",
+      "source": "google"
+    },
+    {
+      "id": "6gr66eb365i3eb9o6comab9k6sr34bb260ojabb4clij2d9p68oj0or66o_20260622T190000Z",
+      "summary": "Таблетки",
+      "start": "2026-06-22T21:00:00+02:00",
+      "end": "2026-06-22T22:00:00+02:00",
+      "source": "google"
+    }
+  ],
+  "gcalLastLoad": "2026-06-09T16:49:36.203Z",
+  "lastSync": "2026-06-09T17:02:17.966Z",
+  "dirty": false
+}
