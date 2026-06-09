@@ -1,5 +1,5 @@
-const CACHE = 'girl-organizer-v21-cache';
-const ASSETS = ['./','./index.html?v=21','./manifest.json','./icon.svg'];
+const CACHE = 'girl-organizer-v22-cache';
+const ASSETS = ['./','./index.html?v=22','./manifest.json','./icon.svg'];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(ASSETS)).then(() => self.skipWaiting()));
 });
@@ -13,5 +13,5 @@ self.addEventListener('fetch', event => {
     const copy = res.clone();
     caches.open(CACHE).then(cache => cache.put(req, copy)).catch(()=>{});
     return res;
-  }).catch(() => caches.match(req).then(cached => cached || caches.match('./index.html?v=21'))));
+  }).catch(() => caches.match(req).then(cached => cached || caches.match('./index.html?v=22'))));
 });
