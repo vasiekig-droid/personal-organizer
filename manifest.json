@@ -1,0 +1,12 @@
+{
+  "name": "Мой нежный органайзер",
+  "short_name": "Органайзер",
+  "description": "Личный PWA-органайзер с задачами, заметками, GitHub Sync и выборочной синхронизацией Google Calendar.",
+  "start_url": "./index.html?v=1",
+  "display": "standalone",
+  "background_color": "#fff7fb",
+  "theme_color": "#f7d7e8",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
