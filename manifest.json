@@ -1,12 +1,45 @@
 {
   "name": "Мой нежный органайзер",
   "short_name": "Органайзер",
-  "description": "Личный PWA-органайзер со сферами жизни, задачами, заметками, финансами, календарём органайзера, занятостью из Google Calendar, GitHub Sync и выборочной отправкой важных дел в Google Calendar.",
-  "start_url": "./index.html?v=26",
+  "description": "Личный PWA-органайзер со сферами жизни, задачами, заметками, финансами, быстрым вводом трат, календарём, GitHub Sync и Google Calendar.",
+  "start_url": "./index.html?v=27",
   "display": "standalone",
   "background_color": "#fff7fb",
   "theme_color": "#f7d7e8",
   "icons": [
-    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Записать трату",
+      "short_name": "Трата",
+      "description": "Быстрый ввод финансовой траты",
+      "url": "./index.html?v=27&quick=finance",
+      "icons": [
+        {
+          "src": "icon.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Быстро добавить дело",
+      "short_name": "Дело",
+      "description": "Быстро добавить задачу в органайзер",
+      "url": "./index.html?v=27",
+      "icons": [
+        {
+          "src": "icon.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
   ]
 }
