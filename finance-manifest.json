@@ -2,7 +2,7 @@
   "name": "Быстрые траты",
   "short_name": "Траты",
   "description": "Быстрый ввод финансовых трат в личный органайзер.",
-  "start_url": "./finance.html?v=28",
+  "start_url": "./finance.html?v=29",
   "scope": "./",
   "display": "standalone",
   "background_color": "#fff7fb",

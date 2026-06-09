@@ -2,7 +2,7 @@
   "name": "Мой нежный органайзер",
   "short_name": "Органайзер",
   "description": "Личный PWA-органайзер со сферами жизни, задачами, заметками, финансами, быстрым вводом трат, календарём, GitHub Sync и Google Calendar.",
-  "start_url": "./index.html?v=28",
+  "start_url": "./index.html?v=29",
   "display": "standalone",
   "background_color": "#fff7fb",
   "theme_color": "#f7d7e8",
@@ -19,7 +19,7 @@
       "name": "Быстрые траты",
       "short_name": "Траты",
       "description": "Быстрый ввод финансовой траты",
-      "url": "./finance.html?v=28",
+      "url": "./finance.html?v=29",
       "icons": [
         {
           "src": "finance-icon.svg",
@@ -32,7 +32,7 @@
       "name": "Быстро добавить дело",
       "short_name": "Дело",
       "description": "Быстро добавить задачу в органайзер",
-      "url": "./index.html?v=28",
+      "url": "./index.html?v=29",
       "icons": [
         {
           "src": "icon.svg",

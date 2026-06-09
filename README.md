@@ -9,20 +9,20 @@
 
 Обновление на GitHub Pages:
 1. Загрузить в корень репозитория файлы из папки `orgv28`.
-2. Открыть: `https://vasiekig-droid.github.io/personal-organizer/?v=28`.
-3. Для быстрого финансового ярлыка: `https://vasiekig-droid.github.io/personal-organizer/?v=28&quick=finance`.
+2. Открыть: `https://vasiekig-droid.github.io/personal-organizer/?v=29`.
+3. Для быстрого финансового ярлыка: `https://vasiekig-droid.github.io/personal-organizer/?v=29&quick=finance`.
 
 Важно: GitHub token не хранить в репозитории и не отправлять в чат.
 
-## v2.8 — отдельный ярлык “Быстрые траты”
+## v2.9 — отдельный ярлык “Быстрые траты”
 
 Добавлен отдельный файл `finance.html`, отдельный `finance-manifest.json` и отдельная иконка `finance-icon.svg`.
 
 Чтобы на телефоне не путать две одинаковые иконки:
 
 1. Обнови файлы на GitHub.
-2. Открой обычное приложение: `https://vasiekig-droid.github.io/personal-organizer/?v=28`.
-3. Для отдельного ярлыка быстрых трат открой: `https://vasiekig-droid.github.io/personal-organizer/finance.html?v=28`.
+2. Открой обычное приложение: `https://vasiekig-droid.github.io/personal-organizer/?v=29`.
+3. Для отдельного ярлыка быстрых трат открой: `https://vasiekig-droid.github.io/personal-organizer/finance.html?v=29`.
 4. Нажми “Добавить на главный экран”.
 
 На рабочем столе появится отдельное название: **Траты** / **Быстрые траты**, с другой иконкой.
