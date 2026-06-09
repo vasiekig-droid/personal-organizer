@@ -1,8 +1,8 @@
 {
   "name": "Мой нежный органайзер",
   "short_name": "Органайзер",
-  "description": "Личный PWA-органайзер со сферами жизни, задачами, заметками, финансами по сферам, GitHub Sync и выборочной синхронизацией Google Calendar.",
-  "start_url": "./index.html?v=14",
+  "description": "Личный PWA-органайзер со сферами жизни, задачами, заметками, финансами по сферам, лентой всех дел, занятостью из Google Calendar, GitHub Sync и выборочной синхронизацией Google Calendar.",
+  "start_url": "./index.html?v=16",
   "display": "standalone",
   "background_color": "#fff7fb",
   "theme_color": "#f7d7e8",
