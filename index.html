@@ -49,7 +49,7 @@
   <div id="modal" class="modal hidden"></div>
 
 <script>
-const VERSION='v2.5-cloud-settings';
+const VERSION='v2.5.1-hotfix';
 const STORAGE='girlOrganizerData_v1';
 const SETTINGS_STORAGE='girlOrganizerSettingsStable_v1';
 const tabs=[['today','Сегодня'],['areas','Сферы'],['tasks','Дела'],['finance','Финансы'],['notes','Заметки'],['calendar','Календарь'],['settings','Настройки']];
@@ -324,8 +324,7 @@ async function pullGithub(){try{
   saveSettings();
   const localSettings=structuredClone(data.settings||defaultData.settings);
   const r=await githubReq('GET');
-  const json=JSON.parse(decodeURIComponent(escape(atob((r.content||'').replace(/
-/g,'')))));
+  const json=JSON.parse(decodeURIComponent(escape(atob((r.content||'').replace(/\n/g,'')))));
   const cloudSettings=json.settings||{};
   data={...structuredClone(defaultData),...json};
   data.settings=mergeSettingsForDevice(cloudSettings,localSettings);

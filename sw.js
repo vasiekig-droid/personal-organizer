@@ -1,4 +1,4 @@
-const CACHE = 'girl-organizer-v25-cache';
+const CACHE = 'girl-organizer-v251-cache';
 const ASSETS = ['./','./index.html?v=24','./manifest.json','./icon.svg'];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(ASSETS)).then(() => self.skipWaiting()));
