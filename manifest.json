@@ -1,9 +1,8 @@
 {
-  "name": "НейроКурс Трекер 3.4",
+  "name": "НейроКурс Трекер 3.5",
   "short_name": "НейроКурс",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f172a",
-  "theme_color": "#7c3aed",
-  "description": "Трекер курса с хвостами и отложенными задачами"
+  "theme_color": "#7c3aed"
 }
