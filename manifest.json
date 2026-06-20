@@ -1,45 +1,9 @@
 {
-  "name": "Мой нежный органайзер",
-  "short_name": "Органайзер",
-  "description": "Личный PWA-органайзер со сферами жизни, задачами, заметками, финансами, быстрым вводом трат, календарём, GitHub Sync и Google Calendar.",
-  "start_url": "./index.html?v=29",
+  "name": "НейроКурс Трекер 3.4",
+  "short_name": "НейроКурс",
+  "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#fff7fb",
-  "theme_color": "#f7d7e8",
-  "icons": [
-    {
-      "src": "icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    }
-  ],
-  "shortcuts": [
-    {
-      "name": "Быстрые траты",
-      "short_name": "Траты",
-      "description": "Быстрый ввод финансовой траты",
-      "url": "./finance.html?v=29",
-      "icons": [
-        {
-          "src": "finance-icon.svg",
-          "sizes": "any",
-          "type": "image/svg+xml"
-        }
-      ]
-    },
-    {
-      "name": "Быстро добавить дело",
-      "short_name": "Дело",
-      "description": "Быстро добавить задачу в органайзер",
-      "url": "./index.html?v=29",
-      "icons": [
-        {
-          "src": "icon.svg",
-          "sizes": "any",
-          "type": "image/svg+xml"
-        }
-      ]
-    }
-  ]
+  "background_color": "#0f172a",
+  "theme_color": "#7c3aed",
+  "description": "Трекер курса с хвостами и отложенными задачами"
 }
