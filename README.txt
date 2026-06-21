@@ -1,4 +1,17 @@
-const CACHE_NAME='neurocourse-tracker-v45';
-self.addEventListener('install',e=>{self.skipWaiting();});
-self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(keys=>Promise.all(keys.map(k=>caches.delete(k)))));});
-self.addEventListener('fetch',e=>{e.respondWith(fetch(e.request).catch(()=>caches.match(e.request)));});
+НейроКурс Трекер v4.5
+
+Что исправлено:
+- название версии v4.5;
+- возвращён дневной блок на главный экран:
+  сколько просмотрено сегодня,
+  сколько запланировано,
+  светофор выполнения;
+- сохранены хвосты / отложенные задачи;
+- сохранены курс, практика, промпты, портфолио, идеи и GitHub Sync.
+
+Как обновить:
+1. Распакуйте архив.
+2. Загрузите index.html, manifest.json, sw.js, README.txt в GitHub поверх старых.
+3. Commit changes.
+4. Откройте сайт с ?v=45.
+5. Если телефон показывает старое название — удалите ярлык/приложение и установите заново.
