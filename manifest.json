@@ -1,9 +1,9 @@
 {
-  "name": "НейроКурс Трекер v4.5",
+  "name": "НейроКурс Трекер v4.6 Recovery",
   "short_name": "НейроКурс",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#7c3aed",
-  "description": "Трекер курса v4.5 с хвостами, GitHub Sync и дневным светофором"
+  "description": "Восстановление прогресса, хвосты, дневной светофор и GitHub Sync"
 }
